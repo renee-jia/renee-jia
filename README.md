@@ -2,14 +2,17 @@
 
 **AI Research Engineer @ Meta**
 
-I work on AI systems — from ranking and recommendation to LLMs and agents. I like thinking about how models behave in messy, real-world environments.
+I work on AI systems — from ranking and recommendation to LLMs and agents. I like thinking about how models behave in messy, real-world environments. Previously worked at Google and Amazon Alexa AI. Visiting Scholar at Harvard and University of Waterloo.
 
 ---
 
 ### Connect with me
 
-<a href="https://linkedin.com/in/reneejia/">
+<a href="https://linkedin.com/in/renee-jia/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/reneejjj">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="mailto:reneejia368@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -22,14 +25,25 @@ I work on AI systems — from ranking and recommendation to LLMs and agents. I l
 
 ### Writing
 
-I blog about things I'm learning and thinking through:
+I write about things I'm learning and researching. Here's what I've been covering on my [blog](https://renee-jia.github.io/):
 
-> **AI Safety** — reward hacking, jailbreaks, alignment
-> **LLM Reasoning** — what it means and where it breaks
-> **Browser Agents** — goal fidelity on the open web
-> **Ranking & RecSys** — sequential learning, long user histories
+**AI Safety & Alignment** — How reward hacking evolved from classical RL specification gaming to jailbreaks and deceptive alignment in LLMs. What it means for RLHF and building systems we can trust.
 
-Read more at [renee-jia.github.io](https://renee-jia.github.io/)
+**LLM Reasoning** — What "reasoning" actually means in the context of large language models, grounded in research from chain-of-thought prompting to inference-time compute scaling.
+
+**Browser Agents & Goal Fidelity** — Why the web is an adversarial environment for agents, and why being capable is not the same as being hard to manipulate.
+
+**Ranking & Recommendation Systems** — A deep-dive series covering the full evolution: from foundational collaborative filtering, through the deep learning era, to modern sequential learning and long user history modeling in ads systems.
+
+---
+
+### Beyond the code
+
+When I'm not thinking about AI:
+
+:snowboarder: **Snowboarding** — PSIA-AASI Level 1 certified instructor
+
+:spades: **Tournament Poker** — Part-time player who loves the intersection of game theory, math, and psychology. Check out my results on [Hendon Mob](https://pokerdb.thehendonmob.com/player.php?a=r&n=1103327).
 
 ---
 
