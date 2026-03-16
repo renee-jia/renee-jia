@@ -6,7 +6,7 @@ I work on AI systems — from ranking and recommendation to LLMs and agents. I l
 
 ---
 
-### Connect with me
+### :incoming_envelope: Connect with me
 
 <a href="https://linkedin.com/in/renee-jia/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -23,21 +23,21 @@ I work on AI systems — from ranking and recommendation to LLMs and agents. I l
 
 ---
 
-### Writing
+### :pencil2: Writing
 
 I write about things I'm learning and researching. Here's what I've been covering on my [blog](https://renee-jia.github.io/):
 
-**AI Safety & Alignment** — How reward hacking evolved from classical RL specification gaming to jailbreaks and deceptive alignment in LLMs. What it means for RLHF and building systems we can trust.
+:shield: **AI Safety & Alignment** — How reward hacking evolved from classical RL specification gaming to jailbreaks and deceptive alignment in LLMs. What it means for RLHF and building systems we can trust.
 
-**LLM Reasoning** — What "reasoning" actually means in the context of large language models, grounded in research from chain-of-thought prompting to inference-time compute scaling.
+:brain: **LLM Reasoning** — What "reasoning" actually means in the context of large language models, grounded in research from chain-of-thought prompting to inference-time compute scaling.
 
-**Browser Agents & Goal Fidelity** — Why the web is an adversarial environment for agents, and why being capable is not the same as being hard to manipulate.
+:globe_with_meridians: **Browser Agents & Goal Fidelity** — Why the web is an adversarial environment for agents, and why being capable is not the same as being hard to manipulate.
 
-**Ranking & Recommendation Systems** — A deep-dive series covering the full evolution: from foundational collaborative filtering, through the deep learning era, to modern sequential learning and long user history modeling in ads systems.
+:dart: **Ranking & Recommendation Systems** — A deep-dive series covering the full evolution: from foundational collaborative filtering, through the deep learning era, to modern sequential learning and long user history modeling in ads systems.
 
 ---
 
-### Beyond the code
+### :sunrise_over_mountains: Beyond the code
 
 When I'm not thinking about AI:
 
@@ -47,7 +47,7 @@ When I'm not thinking about AI:
 
 ---
 
-### GitHub Stats
+### :bar_chart: GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=renee-jia&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
