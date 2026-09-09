@@ -2,7 +2,7 @@
 
 **AI Research Engineer @ Meta**
 
-I work on AI systems — from ranking and recommendation to LLMs and agents. I like thinking about how models behave in messy, real-world environments. Previously worked at Google and Amazon Alexa AI. Visiting Scholar at Harvard and University of Waterloo.
+I work on long-horizon agents, memory, reasoning, and personalization — with a focus on how models learn from experience, reason over long histories, and adapt through interaction.
 
 ---
 
@@ -27,13 +27,13 @@ I work on AI systems — from ranking and recommendation to LLMs and agents. I l
 
 I write about things I'm learning and researching. Here's what I've been covering on my [blog](https://renee-jia.github.io/):
 
-:shield: **AI Safety & Alignment** — How reward hacking evolved from classical RL specification gaming to jailbreaks and deceptive alignment in LLMs. What it means for RLHF and building systems we can trust.
+:brain: Memory & long-horizon learning — memory architectures, long-context modeling, retrieval, and continual adaptation
 
-:brain: **LLM Reasoning** — What "reasoning" actually means in the context of large language models, grounded in research from chain-of-thought prompting to inference-time compute scaling.
+:mag: Reasoning & model behavior — CoT faithfulness, reward hacking, and post-training
 
-:globe_with_meridians: **Browser Agents & Goal Fidelity** — Why the web is an adversarial environment for agents, and why being capable is not the same as being hard to manipulate.
+:robot: Agents — long-horizon decision-making, credit assignment, and learning from interaction
 
-:dart: **Ranking & Recommendation Systems** — A deep-dive series covering the full evolution: from foundational collaborative filtering, through the deep learning era, to modern sequential learning and long user history modeling in ads systems.
+:busts_in_silhouette: Personalization — user modeling, sequential learning, and large-scale recommendation
 
 ---
 
