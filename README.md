@@ -1,6 +1,6 @@
 # Hey there, I'm Renee :wave:
 
-**AI Research Engineer @ Meta**
+**AI Research @ Meta**
 
 I work on long-horizon agents, memory, reasoning, and personalization — with a focus on how models learn from experience, reason over long histories, and adapt through interaction.
 
