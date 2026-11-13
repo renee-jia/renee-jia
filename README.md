@@ -2,7 +2,7 @@
 
 **AI Research @ Meta**
 
-I work on long-horizon agents, memory, reasoning, and personalization — with a focus on how models learn from experience, reason over long histories, and adapt through interaction.
+I work on long-horizon agents, memory, reasoning, and personalization — exploring how models learn from experience, retain knowledge over time, and adapt through interaction.
 
 ---
 
@@ -23,17 +23,17 @@ I work on long-horizon agents, memory, reasoning, and personalization — with a
 
 ---
 
-### :pencil2: Writing
+### :pencil2: Research & Exploring
 
-I write about things I'm learning and researching. Here's what I've been covering on my [blog](https://renee-jia.github.io/):
+I write about questions at the intersection of learning, reasoning, and adaptation. My blog explores four interconnected areas:
 
-:brain: Memory & long-horizon learning — memory architectures, long-context modeling, retrieval, and continual adaptation
+:brain: Memory & Continual Learning — long-term memory, long-context modeling, knowledge retention, and adaptation over time
 
-:mag: Reasoning & model behavior — CoT faithfulness, reward hacking, and post-training
+:mag: Reasoning & Model Behavior — chain-of-thought faithfulness, behavioral analysis, and post-training
 
-:robot: Agents — long-horizon decision-making, credit assignment, and learning from interaction
+:robot: Agentic Learning — long-horizon agents, credit assignment, and learning from interaction
 
-:busts_in_silhouette: Personalization — user modeling, sequential learning, and large-scale recommendation
+:busts_in_silhouette: Personalization — user modeling, sequential learning, and adaptive recommendation systems
 
 ---
 
